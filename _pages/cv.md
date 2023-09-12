@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Statistics, B.A. Mathematics, 2021
+* M.A. Statistics, 2023. 
+* Ph.D Statistics, 2021-present.
 
-Work experience
+Teaching Assistant
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PSTAT 8 Introduction to Proofs (Fall 2022, Winter 2023)
+* PSTAT 10 Introduction to Data Science with R (Fall 2021, Winter 2021)
+* PSTAT 174 Time Series (Spring 2022, Spring 2023)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+Teaching Associate (Lecturer)
+======
+* PSTAT 8 Introduction to Proofs (Summer 2023)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numerical Optimization
+* Programming Languages
+  * Python
+  * R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
