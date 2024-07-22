@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Statistics, B.A. Mathematics, 2021
-* M.A. Statistics, 2023. 
+* M.S. Electricial and Computer Engineering, 2024-present. 
 * Ph.D Statistics, 2021-present.
 
 Teaching Assistant
@@ -28,8 +28,18 @@ Teaching Associate (Lecturer)
 
 Skills
 ======
+* Deep Learning
+* Time Series Forecasting
 * Numerical Optimization
 * Programming Languages
   * Python
   * R
+  * Julia
+  * C++
+* Optimization Modeling
+  * Pyomo
+  * Gurobi
+  * CVXPY
+
+
 
